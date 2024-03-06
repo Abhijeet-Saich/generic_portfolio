@@ -1,1 +1,1 @@
-This is sttatic portfolio template website
+This is static portfolio template website
